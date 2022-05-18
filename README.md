@@ -4,6 +4,10 @@
 
 If you use `mnlfa` and have suggestions for improvement or have found bugs, please email me at robitzsch@ipn.uni-kiel.de.
 
+#### Manual
+
+The manual may be found here [https://alexanderrobitzsch.github.io/mnlfa/](https://alexanderrobitzsch.github.io/mnlfa/) 
+
 #### CRAN version
 
 <!---
